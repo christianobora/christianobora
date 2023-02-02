@@ -8,7 +8,7 @@ I focus on automation technologies and cloud applications.
 - [Verge Financial](https://github.com/verge-co/)
 - Amazon FBA arbitrage technology
 
-## Previous Projects
+## Past Projects
 - E-commerce Automation
 - Web3 Automation
 - Production Golang servers, mainly using gofiber
