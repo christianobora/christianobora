@@ -5,6 +5,7 @@ My name is Christian Obora, I am an 18 year old software developer in Chicago. I
 I focus on automation technologies and cloud applications.
 
 ## Current Projects
+- [Verge Financial](https://github.com/verge-co/)
 - Amazon FBA arbitrage technology
 
 ## Previous Projects
