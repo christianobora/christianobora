@@ -6,12 +6,13 @@ I focus on automation technologies and cloud applications.
 
 ## Current Projects
 - Bot Mitigation Techniques
-- Amazon FBA arbitrage technology
+- Full Stack Applications
 
 ## Past Projects
 - E-commerce Automation
 - Web3 Automation
 - Production Golang servers, mainly using gofiber
+- Amazon FBA arbitrage technology
 
 
 ## Contact info:
