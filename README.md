@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-My name is Christian Obora, I am an 19 year old software developer in Chicago. I am studying economics and computer science at the University of Chicago.
+My name is Christian Obora, I am an 20 year old software developer in Chicago. I am studying economics and computer science at the University of Chicago.
 
 I focus on automation technologies and cloud applications.
 
